@@ -17,7 +17,7 @@ Notes: You may adjust the CUDA and CUDNN version based on your needs. Please ref
 ```
 pip3 install -r requirements.txt
 ```
-2. Install Mask R-CNN
+2. Install [Mask R-CNN](https://github.com/matterport/Mask_RCNN)
 ```
 git clone https://github.com/matterport/Mask_RCNN
 cd /path/to/mask-rcnn/repo
